@@ -1,0 +1,6 @@
+20140915	thinh nguyen 	01688428900	thinh@gmail.com	bb29498912db80855ea934681de7a0c1	bac ninh
+20143915	tai man tien	01688428906	tai@gmail.com	bb29498912db80855ea934681de7a0c1	bac ninh 
+20143052	nam nguyen	0965045810	nam@gmail.com	bb29498912db80855ea934681de7a0c1	bac ninh
+20140001	le nguyen	01688428909	leng@gmail.com	bb29498912db80855ea934681de7a0c1	bac ninh
+20140820	dung nguyen	01688428900	dung@gmail.com	57d944f0b2a81fa233304ce82eedb7cc	bac ninh   
+20143010	hai ngoc	01688428900	hai@gmail.com	bb29498912db80855ea934681de7a0c1	ha noi

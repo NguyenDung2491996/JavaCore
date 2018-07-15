@@ -1,0 +1,5 @@
+dell	may tinh	12	12000000
+hp 2017	laptop	14	14000000
+asus	laptop	11	15000000
+acer	laptop	15	14000000
+ram	memory	11	10000000
